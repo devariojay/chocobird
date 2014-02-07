@@ -740,3 +740,13 @@ pre {
 #url-rewriting-warning {
 	display:none;
 }
+
+.chocoimage img{
+	width:500px;
+}
+
+.chocoimage {
+	width:600px;
+	text-align:center;
+	margin:0px auto;
+}
